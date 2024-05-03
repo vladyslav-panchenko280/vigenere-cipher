@@ -38,5 +38,5 @@ The application requires minimal configuration, handled through environment vari
 KEY: The encryption/decryption key used by the cipher.
 
 ## Acknowledgments
-- (Wiki)[https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher#:~:text=The%20Vigen%C3%A8re%20cipher%20(French%20pronunciation,of%20another%20text%2C%20the%20key.]
-- (node-addon-api)[https://github.com/nodejs/node-addon-api]
+- [Wiki](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher#:~:text=The%20Vigen%C3%A8re%20cipher%20(French%20pronunciation,of%20another%20text%2C%20the%20key.)
+- [node-addon-api](https://github.com/nodejs/node-addon-api)
