@@ -1,7 +1,7 @@
 # Vigenère Cipher Application
 
 ## Overview
-This project implements the Vigenère cipher, a method of encrypting alphabetic text through a simple form of polyalphabetic substitution. The implementation is done in C for performance and efficiency, integrated into a Node.js environment for ease of use and cross-platform scalability. This setup is ideal for developers looking for a cryptography solution with minimal DevOps configuration.
+This project implements the Vigenère cipher, a method of encrypting alphabetic text through a simple form of polyalphabetic substitution. The implementation is done in C for performance and efficiency, integrated into a Node.js environment for ease of use and cross-platform scalability. This setup is ideal for cryptography solution with minimal DevOps configuration.
 
 ## Features
 - **High Performance**: Implemented in C to leverage speed and efficiency.
